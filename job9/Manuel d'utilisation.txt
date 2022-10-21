@@ -1,0 +1,3 @@
+[Manuel d'utilisation du créateur d'utilisateur]
+
+Lancez le script de création d'utilisateur et donnez y comme argument (dans cet ordre) 'nom d utilisateur' et 'mot de passe'
