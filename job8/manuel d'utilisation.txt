@@ -1,0 +1,3 @@
+[manuel de désinstallation du serveur FTP]
+
+Lancez le script et la désinstallation sera faite.
